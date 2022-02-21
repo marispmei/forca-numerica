@@ -1,0 +1,11 @@
+library ieee;
+use IEEE.STD_LOGIC_1164.ALL;
+ENTITY myand IS
+PORT ( A: in std_logic;
+B: in std_logic;
+C: out std_logic);
+END myand;
+ARCHITECTURE teste OF myand IS
+BEGIN
+C<= A AND B;
+END teste;

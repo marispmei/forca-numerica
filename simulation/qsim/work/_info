@@ -1,0 +1,150 @@
+m255
+K4
+z2
+!s11e vcom 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/VHDL/FORCA/simulation/qsim
+Eforca
+Z1 w1645415452
+Z2 DPx4 ieee 16 vital_primitives 0 22 G>kiXP8Q9dRClKfK1Zn7j1
+Z3 DPx10 cycloneive 20 cycloneive_atom_pack 0 22 76OUjOFMM1Jzd<9936DA;3
+Z4 DPx4 ieee 12 vital_timing 0 22 J>EBealN09f8GzldA[z2>3
+Z5 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z6 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+Z7 DPx10 cycloneive 21 cycloneive_components 0 22 dANj__M<MaN@;H9Tkm=iP1
+!i122 64
+R0
+Z8 8forca.vho
+Z9 Fforca.vho
+l0
+L78 1
+V4n>obn>g]LUn^U<7[O`:Z2
+!s100 5CFl]EEMI0`KiKObOUUi_2
+Z10 OV;C;2020.1;71
+32
+Z11 !s110 1645415453
+!i10b 1
+Z12 !s108 1645415453.000000
+Z13 !s90 -work|work|forca.vho|
+Z14 !s107 forca.vho|
+!i113 1
+Z15 o-work work
+Z16 tExplicit 1 CvgOpt 0
+Astructure
+R2
+R3
+R4
+R5
+R6
+R7
+DEx4 work 5 forca 0 22 4n>obn>g]LUn^U<7[O`:Z2
+!i122 64
+l284
+L150 1524
+VA>J1lgVBAD6h@J]@1Iz6m3
+!s100 ;lSgD?la:WkMD2CRGPUa93
+R10
+32
+R11
+!i10b 1
+R12
+R13
+R14
+!i113 1
+R15
+R16
+Eforca_vhd_vec_tst
+Z17 w1645415451
+R5
+R6
+!i122 65
+R0
+Z18 8Waveform.vwf.vht
+Z19 FWaveform.vwf.vht
+l0
+L32 1
+VS=4F]hj<8;ddLRPb7D8D>3
+!s100 m[:D4L^VQlh:ha88?oH7a3
+R10
+32
+R11
+!i10b 1
+R12
+Z20 !s90 -work|work|Waveform.vwf.vht|
+Z21 !s107 Waveform.vwf.vht|
+!i113 1
+R15
+R16
+Aforca_arch
+R5
+R6
+Z22 DEx4 work 17 forca_vhd_vec_tst 0 22 S=4F]hj<8;ddLRPb7D8D>3
+!i122 65
+l57
+Z23 L34 103
+VeoQ^[66mzH9Z=ECigABf02
+!s100 <Sl^`nekX]Y1j;>2I_znn0
+R10
+32
+R11
+!i10b 1
+R12
+R20
+R21
+!i113 1
+R15
+R16
+Ehard_block
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+!i122 64
+R0
+R8
+R9
+l0
+L35 1
+VB]0;STalBkCB1_B4BXQDW2
+!s100 >mXi5[`cD`bFC`UBKA<om3
+R10
+32
+R11
+!i10b 1
+R12
+R13
+R14
+!i113 1
+R15
+R16
+Astructure
+R2
+R3
+R4
+R5
+R6
+R7
+DEx4 work 10 hard_block 0 22 B]0;STalBkCB1_B4BXQDW2
+!i122 64
+l65
+L51 20
+Via>5o7W??azG@W@@eFOTF0
+!s100 [5;Wd8QGQ>@2NGoJ1I]Y43
+R10
+32
+R11
+!i10b 1
+R12
+R13
+R14
+!i113 1
+R15
+R16

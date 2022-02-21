@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Mon Feb 21 00:47:58 2022
+Quartus Prime Version : 20.1.0 Build 711 06/05/2020 SJ Lite Edition
+Revision Name : forca
+Top-level Entity Name : forca
+Family : Cyclone IV E
+Total logic elements : 36
+    Total combinational functions : 36
+    Dedicated logic registers : 0
+Total registers : 0
+Total pins : 56
+Total virtual pins : 0
+Total memory bits : 0
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0
